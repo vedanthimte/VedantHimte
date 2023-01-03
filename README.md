@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedantHimte
-- 👀 I’m interested in ... AI, Hacking, DBMS & Front-End Code 
-- 📫 How to reach me ... Instagram- @vedant_himte
+- 👀 I’m interested in ... AI, Hacking, DBMS & Full stack Code 
+- 📫 How to reach me ... Instagram- @vedanthimte
 
 <!---
 VedantHimte/VedantHimte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
