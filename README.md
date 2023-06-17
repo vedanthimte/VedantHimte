@@ -4,7 +4,7 @@
 - 📫 How to reach me ... Instagram- @vedanthimte
 
 # Details
-Hello, my name is Vedant Himte, and I am excited to share my skills and knowledge with you. I specialize in a wide range of topics, including coding and programming, chess, trading and the stock market, gaming, ethical hacking, class 12 preparation, JEE exam preparation, robotics, and artificial intelligence.
+Hello, my name is Vedant Himte, and I am excited to share my skills and knowledge with you. I specialize in a wide range of topics, including coding and programming, chess, trading and the stock market, gaming, ethincal hacking , web and software development, robotics, and artificial intelligence.
 
 Coding and programming are at the core of my skillset. I have experience in several programming languages such as Python, Java, and C++, and I can teach you the basics of coding and how to write programs that can perform various tasks. As you progress, I will also guide you through more advanced topics such as software development and web development.
 <!---
